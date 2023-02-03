@@ -1,6 +1,6 @@
 #include <iostream>
-
+#include "Headers/MainMenu.h"
 int main() {
-    std::cout << "Hello Miners!\n";
+    MainMenu();
     return 0;
 }
