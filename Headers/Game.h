@@ -20,14 +20,14 @@ void Game() {
     Sleep(2000);
     system("CLS");
 
-    std::string user, difSelection;
+    std::string difSelection;
     int difficulty;
     int cash(0), healthPoints(0);
     HANDLE h = GetStdHandle(STD_OUTPUT_HANDLE);
     SetConsoleTextAttribute(h, 2);
-    std::cout << "Welcome to Cave Escape, please enter your name: ";
+    std::cout << "Welcome to Cave Escape.\n\n";
+    Sleep(2500);
     SetConsoleTextAttribute(h, 7);
-    getline(std::cin, user);
     std::cout << "Select difficulty (use numbers 1-4):\n";
     SetConsoleTextAttribute(h, 3);
     std::cout << "1. Easy\n";
