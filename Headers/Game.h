@@ -5,7 +5,7 @@
 
 void Game() {
     system("CLS");
-    for(int i = 1; i <= 2; i++) {
+    for(int i = 1; i <= 3; i++) {
         std::cout << "Loading.";
         Sleep(1000);
         system("CLS");
@@ -64,4 +64,26 @@ void Game() {
             std::cout << "Please use the numbers 1-4 to choose your difficulty:\n";
             goto again;
     }
+    std::cout << '\n' << '\n';
+    std::cout << "You chose.. ";
+    Sleep(2500);
+    std::cout << "the " << difSelection << " difficulty!\n";
+    Sleep(1000);
+    std::cout << "This means that you start off with " << cash << " minebucks and " << healthPoints << " HP!\n";
+    Sleep(2500);
+    std::cout << "Good luck on your journey and have fun!\n";
+    Sleep(2500);
+    system("CLS");
+    for(int i = 1; i <= 3; i++) {
+        std::cout << "Loading game.";
+        Sleep(1000);
+        system("CLS");
+        std::cout << "Loading game..";
+        Sleep(1000);
+        system("CLS");
+        std::cout << "Loading game...";
+        Sleep(1000);
+        system("CLS");
+    }
+    std::cout << "DONE\n";
 }
