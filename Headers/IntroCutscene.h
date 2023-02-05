@@ -27,5 +27,5 @@ void IntroCutscene() {
     displayText("You were extremely happy, as you worked in the mines for the past 20 years and you thought you needed a break.\n\n\n");
     displayText("After landing on the island, you couldn't believe the beauty. You enjoyed every second of it.\n\n\n");
     displayText("Couple days have passed and everything was going well, user had the time of his live swimming, sun tanning and playing at the beach.\n");
-    displayText("user as well wanted to visit as many tourist attractions as they could withing the week.\n\n\n");
+    displayText("You as well wanted to visit as many tourist attractions as you could withing the week.\n\n\n");
 }
