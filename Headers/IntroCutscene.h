@@ -47,4 +47,7 @@ void IntroCutscene() {
     SetConsoleTextAttribute(h, 6);
     displayText("'What? Why? Why would he do this, this makes no sense!'\n\n\n");
     SetConsoleTextAttribute(h, 3);
+    displayText("Well, I would like to know too, you see, no one actually knows why he is doing this, but I speculate that it's for a project he has been talking about for years.\n\n\n");
+    SetConsoleTextAttribute(h, 6);
+    displayText("Well, I would like to know too, you see, no one actually knows why he is doing this, but I speculate that it's for a project he has been talking about for years.\n\n\n");
 }
