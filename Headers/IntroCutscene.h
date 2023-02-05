@@ -25,4 +25,5 @@ void IntroCutscene() {
     displayText("'Congratulations! You're one of the lucky 1000 people who got a free trip to Ofrygo!'\n\n\n");
     SetConsoleTextAttribute(h, 7);
     displayText("You were extremely happy, as you worked in the mines for the past 20 years and you thought you needed a break.\n\n\n");
+    displayText("After landing on the island, you couldn't believe the beauty. You enjoyed every second of it.\n\n\n");
 }
