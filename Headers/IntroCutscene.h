@@ -28,4 +28,5 @@ void IntroCutscene() {
     displayText("After landing on the island, you couldn't believe the beauty. You enjoyed every second of it.\n\n\n");
     displayText("Couple days have passed and everything was going well, user had the time of his live swimming, sun tanning and playing at the beach.\n");
     displayText("You as well wanted to visit as many tourist attractions as you could withing the week.\n\n\n");
+    displayText("One of them was The Ofrygorian Cave, an old, abandonded cave where the Ofrygorians lived 100,000 years ago.\n\n\n");
 }
