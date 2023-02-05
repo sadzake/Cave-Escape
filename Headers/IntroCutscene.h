@@ -31,4 +31,6 @@ void IntroCutscene() {
     displayText("One of them was 'The Ofrygorian Cave', an old, abandonded cave where the Ofrygorians lived 100,000 years ago.\n\n\n");
     displayText("Everything was going well, user was fascinated by the art on the caves, although they noticed something was off.\n");
     displayText("There was a strange... smell in the cave, and as user went deeper and deeper in it, the smell got worse.\n\n\n");
+    displayText("As user was going to the smell, the floor began to feel more... light, and them... *BOOM*\n");
+    displayText("The floor broke...\n\n\n");
 }
