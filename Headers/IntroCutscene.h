@@ -37,4 +37,5 @@ void IntroCutscene() {
     SetConsoleTextAttribute(h, 6);
     displayText("'Am I having a bad dream, why am I in the mines?'\n\n\n");
     SetConsoleTextAttribute(h, 7);
+    displayText("You hear a voice of someone in the distance;\n\n\n");
 }
