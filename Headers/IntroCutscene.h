@@ -58,5 +58,5 @@ void IntroCutscene() {
     SetConsoleTextAttribute(h, 3);
     displayText("'Well, you need to mine ores and sell them to me, so you can buy a minecart and escape this hellhole.'\n\n\n");
     SetConsoleTextAttribute(h, 6);
-    displayText("'Well, you need to mine ores and sell them to me, so you can buy a minecart and escape this hellhole.'\n\n\n");
+    displayText("Why cant you just give it to me?'\n\n\n");
 }
