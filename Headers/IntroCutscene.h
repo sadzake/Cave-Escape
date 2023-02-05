@@ -33,4 +33,5 @@ void IntroCutscene() {
     displayText("There was a strange... smell in the cave, and as user went deeper and deeper in it, the smell got worse.\n\n\n");
     displayText("As user was going to the smell, the floor began to feel more... light, and them... *BOOM*\n");
     displayText("The floor broke...\n\n\n");
+    displayText("Suddenly, you wake up in the mines.\n\n\n");
 }
