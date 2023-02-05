@@ -54,5 +54,7 @@ void IntroCutscene() {
     displayText("'He hasn't said much about the project of his, he keeps it a secret, and damn I would like to know too.'\n\n\n");
     displayText("'Oh by the way I am the shopkeeper here, I sell pickaxes, weapons and a bunch of stuff, too'\n\n\n");
     SetConsoleTextAttribute(h, 6);
-    displayText("'Oh by the way I am the shopkeeper here, I sell pickaxes, weapons and a bunch of stuff, too'\n\n\n");
+    displayText("'Nice to meet you, anyways... What am I supposed to do now?'\n\n\n");
+    SetConsoleTextAttribute(h, 3);
+    displayText("'Nice to meet you, anyways... What am I supposed to do now?'\n\n\n");
 }
