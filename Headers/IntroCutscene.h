@@ -29,7 +29,7 @@ void IntroCutscene() {
     displayText("Couple days have passed and everything was going well, you had the time of your live swimming, sun tanning and playing at the beach.\n");
     displayText("You as well wanted to visit as many tourist attractions as you could withing the week.\n\n\n");
     displayText("One of them was 'The Ofrygorian Cave', an old, abandonded cave where the Ofrygorians lived 100,000 years ago.\n\n\n");
-    displayText("Everything was going well, you were fascinated by the art on the caves, although they noticed something was off.\n");
+    displayText("Everything was going well, you were fascinated by the art on the caves, although you noticed something was off.\n");
     displayText("There was a strange... smell in the cave, and as you went deeper and deeper in it, the smell got worse.\n\n\n");
     displayText("As you were going to the smell, the floor began to feel more... light, and them... *BOOM*\n");
     displayText("The floor broke...\n\n\n");
@@ -64,7 +64,7 @@ void IntroCutscene() {
     SetConsoleTextAttribute(h, 6);
     displayText("'Jesus, I guess he wants to use the ores for his project of his?'\n\n\n");
     SetConsoleTextAttribute(h, 3);
-    displayText("'I think so'\n\n\n");
+    displayText("'I think so'\n");
     displayText("'I don't know honestly, but all I can give you is this wooden pickaxe and sword to start you off.'\n");
     displayText("'Here, take them, and good luck friend, there are many creatures wandering in the caves, so try not to die, ok?'\n\n\n\n");
     SetConsoleTextAttribute(h, 4);
