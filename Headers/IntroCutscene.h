@@ -22,6 +22,7 @@ void IntroCutscene() {
     SetConsoleTextAttribute(h, 7);
     displayText("Intrigued, you call the number right away and a person on the other line says:\n");
     SetConsoleTextAttribute(h, 4);
-    displayText("'Congratulations! You're one of the lucky 1000 people who got a free trip to Ofrygo!'\n");
+    displayText("'Congratulations! You're one of the lucky 1000 people who got a free trip to Ofrygo!'\n\n\n");
     SetConsoleTextAttribute(h, 7);
+    displayText("You were extremely happy, as you worked in the mines for the past 20 years and you thought you needed a break.\n\n\n");
 }
