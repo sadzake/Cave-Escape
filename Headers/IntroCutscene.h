@@ -41,4 +41,10 @@ void IntroCutscene() {
     SetConsoleTextAttribute(h, 3);
     displayText("'Well hello, hello, looks like Ashok got another person here.'\n\n\n");
     SetConsoleTextAttribute(h, 6);
+    displayText("'Ashok? You mean, the current president of Ofrygo Ashok?'\n\n\n");
+    SetConsoleTextAttribute(h, 3);
+    displayText("'Yes, you see, less and less Ofrygorians work in the mines these days and Ashok has been sick of it, so he lures tourists into the cave so he can have people mine for him.'\n\n\n");
+    SetConsoleTextAttribute(h, 6);
+    displayText("'What? Why? Why would he do this, this makes no sense!'\n\n\n");
+    SetConsoleTextAttribute(h, 3);
 }
