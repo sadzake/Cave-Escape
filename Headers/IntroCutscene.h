@@ -62,4 +62,5 @@ void IntroCutscene() {
     SetConsoleTextAttribute(h, 3);
     displayText("'You see I would, but Ashok has guards hidden everywhere watching us, if I give you something for free or for less, we would be killed instantly.'\n\n\n");
     SetConsoleTextAttribute(h, 6);
+    displayText("'Jesus, I guess he wants to use the ores for his project of his?'\n\n\n");
 }
