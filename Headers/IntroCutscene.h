@@ -67,4 +67,8 @@ void IntroCutscene() {
     displayText("'I think so'\n\n\n");
     displayText("'I don't know honestly, but all I can give you is this wooden pickaxe and sword to start you off.'\n");
     displayText("'Here, take them, and good luck friend, there are many creatures wandering in the caves, so try not to die, ok?'\n\n\n\n");
+    SetConsoleTextAttribute(h, 4);
+    displayText("*You got a wooden sword and pickaxe*\n");
+    SetConsoleTextAttribute(h, 7);
+    Sleep(2000);
 }
