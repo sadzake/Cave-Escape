@@ -47,9 +47,12 @@ void IntroCutscene() {
     SetConsoleTextAttribute(h, 6);
     displayText("'What? Why? Why would he do this, this makes no sense!'\n\n\n");
     SetConsoleTextAttribute(h, 3);
-    displayText("Well, I would like to know too, you see, no one actually knows why he is doing this, but I speculate that it's for a project he has been talking about for years.\n\n\n");
+    displayText("'Well, I would like to know too, you see, no one actually knows why he is doing this, but I speculate that it's for a project he has been talking about for years.'\n\n\n");
     SetConsoleTextAttribute(h, 6);
-    displayText("What? What project? What is happening, and who are you?\n\n\n");
+    displayText("'What? What project? What is happening, and who are you?'\n\n\n");
     SetConsoleTextAttribute(h, 3);
-    displayText("What? What project? What is happening, and who are you?\n\n\n");
+    displayText("'He hasn't said much about the project of his, he keeps it a secret, and damn I would like to know too.'\n\n\n");
+    displayText("'Oh by the way I am the shopkeeper here, I sell pickaxes, weapons and a bunch of stuff, too'\n\n\n");
+    SetConsoleTextAttribute(h, 6);
+    displayText("'Oh by the way I am the shopkeeper here, I sell pickaxes, weapons and a bunch of stuff, too'\n\n\n");
 }
