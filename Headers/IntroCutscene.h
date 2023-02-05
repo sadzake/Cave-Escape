@@ -34,4 +34,7 @@ void IntroCutscene() {
     displayText("As user was going to the smell, the floor began to feel more... light, and them... *BOOM*\n");
     displayText("The floor broke...\n\n\n");
     displayText("Suddenly, you wake up in the mines.\n\n\n");
+    SetConsoleTextAttribute(h, 6);
+    displayText("'Am I having a bad dream, why am I in the mines?'\n\n\n");
+    SetConsoleTextAttribute(h, 7);
 }
