@@ -26,12 +26,12 @@ void IntroCutscene() {
     SetConsoleTextAttribute(h, 7);
     displayText("You were extremely happy, as you worked in the mines for the past 20 years and you thought you needed a break.\n\n\n");
     displayText("After landing on the island, you couldn't believe the beauty. You enjoyed every second of it.\n\n\n");
-    displayText("Couple days have passed and everything was going well, user had the time of his live swimming, sun tanning and playing at the beach.\n");
+    displayText("Couple days have passed and everything was going well, you had the time of your live swimming, sun tanning and playing at the beach.\n");
     displayText("You as well wanted to visit as many tourist attractions as you could withing the week.\n\n\n");
     displayText("One of them was 'The Ofrygorian Cave', an old, abandonded cave where the Ofrygorians lived 100,000 years ago.\n\n\n");
-    displayText("Everything was going well, user was fascinated by the art on the caves, although they noticed something was off.\n");
-    displayText("There was a strange... smell in the cave, and as user went deeper and deeper in it, the smell got worse.\n\n\n");
-    displayText("As user was going to the smell, the floor began to feel more... light, and them... *BOOM*\n");
+    displayText("Everything was going well, you were fascinated by the art on the caves, although they noticed something was off.\n");
+    displayText("There was a strange... smell in the cave, and as you went deeper and deeper in it, the smell got worse.\n\n\n");
+    displayText("As you were going to the smell, the floor began to feel more... light, and them... *BOOM*\n");
     displayText("The floor broke...\n\n\n");
     displayText("Suddenly, you wake up in the mines.\n\n\n");
     SetConsoleTextAttribute(h, 6);
