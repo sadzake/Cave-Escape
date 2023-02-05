@@ -2,6 +2,7 @@
 #include <conio.h>
 #include <windows.h>
 #include <string>
+#include "IntroCutscene.h"
 
 void Game() {
     system("CLS");
@@ -86,4 +87,6 @@ void Game() {
         system("CLS");
     }
     std::cout << "DONE\n";
+    Sleep(2000);
+    IntroCutscene();
 }
