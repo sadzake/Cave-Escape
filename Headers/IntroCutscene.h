@@ -38,4 +38,7 @@ void IntroCutscene() {
     displayText("'Am I having a bad dream, why am I in the mines?'\n\n\n");
     SetConsoleTextAttribute(h, 7);
     displayText("You hear a voice of someone in the distance;\n\n\n");
+    SetConsoleTextAttribute(h, 3);
+    displayText("'Well hello, hello, looks like Ashok got another person here.'\n\n\n");
+    SetConsoleTextAttribute(h, 6);
 }
