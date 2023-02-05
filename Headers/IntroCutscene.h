@@ -58,5 +58,8 @@ void IntroCutscene() {
     SetConsoleTextAttribute(h, 3);
     displayText("'Well, you need to mine ores and sell them to me, so you can buy a minecart and escape this hellhole.'\n\n\n");
     SetConsoleTextAttribute(h, 6);
-    displayText("Why cant you just give it to me?'\n\n\n");
+    displayText("'Why cant you just give it to me?'\n\n\n");
+    SetConsoleTextAttribute(h, 3);
+    displayText("'You see I would, but Ashok has guards hidden everywhere watching us, if I give you something for free or for less, we would be killed instantly.'\n\n\n");
+    SetConsoleTextAttribute(h, 6);
 }
