@@ -92,6 +92,7 @@ void Game() {
     std::string choice;
     std::string pickaxe = "wooden";
     std::string sword = "wooden";
+    std::string ore = "";
     std::cout << "What would you like to do?\n";
     std::cout << "1. Mine\n";
     std::cout << "2. Sell\n";
