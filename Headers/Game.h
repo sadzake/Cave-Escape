@@ -93,4 +93,6 @@ void Game() {
     std::cout << "What would you like to do?\n";
     std::cout << "1. Mine\n";
     std::cout << "2. Sell\n";
+    std::cout << "3. Shop\n\n"; 
+    getline(std::cin, choice);
 }
