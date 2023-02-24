@@ -62,7 +62,7 @@ void Game() {
             difSelection = "Strike it Rich or Die Tryin'";
             break;
         default:
-            std::cout << "Please use the numbers 1-4 to choose your difficulty:\n";
+            std::cout << "Please use the numbers 1-4 to select your difficulty:\n";
             goto again;
     }
     std::cout << '\n' << '\n';
@@ -89,4 +89,8 @@ void Game() {
     std::cout << "DONE\n";
     Sleep(2000);
     IntroCutscene();
+    std::string choice;
+    std::cout << "What would you like to do?\n";
+    std::cout << "1. Mine\n";
+    std::cout << "2. Sell\n";
 }
