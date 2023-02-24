@@ -71,4 +71,5 @@ void IntroCutscene() {
     displayText("*You got a wooden sword and pickaxe*\n");
     SetConsoleTextAttribute(h, 7);
     Sleep(2000);
+    system("CLS");
 }
