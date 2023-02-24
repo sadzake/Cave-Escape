@@ -97,4 +97,5 @@ void Game() {
     std::cout << "2. Sell\n";
     std::cout << "3. Shop\n\n"; 
     getline(std::cin, choice);
+    if(choice == "Mine" || choice == "mine") std::cout << std::endl;
 }
